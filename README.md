@@ -23,6 +23,11 @@
 🟩🟩🟩⬜⬜⬜⬜⬜
 
 ---
+## 📒 개념 정리
+
+[https://duxpetal.tistory.com/24](https://duxpetal.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8_%EC%87%BC%ED%95%91%EB%AA%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_JPA)
+
+---
 
 ## ✍️ 참고 도서
 
