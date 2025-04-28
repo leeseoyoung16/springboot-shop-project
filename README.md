@@ -31,4 +31,7 @@
 
 ## ✍️ 참고 도서
 
+https://www.yes24.com/Product/Goods/125992344
+
 『백견불여일타 스프링부트 쇼핑몰 프로젝트 with JPA』
+
