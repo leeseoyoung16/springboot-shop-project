@@ -12,7 +12,7 @@
 |------|-----------|------------|
 | 1장 | 프로젝트 생성 및 개발 환경 설정 | ✅ |
 | 2장 | 상품 등록 기능 구현 (Entity, Repository, Form, Controller, View) | ✅ |
-| 3장 | 상품 조회 기능, 페이지 처리, HTML 및 타임리프 반복 처리 | 🔄️ |
+| 3장 | 상품 조회 기능, 페이지 처리, HTML 및 타임리프 반복 처리 | ✅ |
 | 4장 | 상품 관리 기능 구현 (수정, 삭제), 목록 조회 정렬 | 🔜 |
 | 5장 | 회원 도메인, 회원가입 기능, 유효성 검증 | 🔜 |
 | 6장 | 로그인/로그아웃, Spring Security 설정 | 🔜 |
@@ -20,10 +20,18 @@
 | 8장 | 주문 및 주문 내역 처리 기능 | 🔜 |
 
 ## 📈 진도율
-🟩🟩🟩🟨⬜⬜⬜⬜
+🟩🟩🟩⬜⬜⬜⬜⬜
+
+---
+## 📒 개념 정리
+
+[https://duxpetal.tistory.com/24](https://duxpetal.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8_%EC%87%BC%ED%95%91%EB%AA%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_JPA)
 
 ---
 
 ## ✍️ 참고 도서
 
+https://www.yes24.com/Product/Goods/125992344
+
 『백견불여일타 스프링부트 쇼핑몰 프로젝트 with JPA』
+
